@@ -106,19 +106,4 @@ Estudando atualmente na faculdade Uninove cursando Ánalise e Desenvolvimentos d
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArTezra1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
       />
     </p>
-    <a href="https://www.linkedin.com/in/arthur-marques-nogueira-1666292b0/"
-    style="text-decoration:none; color:white; width:120px"
-    align="left"
-    >
-        <div
-            style="display:flex; gap:10px; align-items: center;
-            justify-content:center;
-            text-align:center; background-color:#0077b3ff; border-radius:5px; padding:2px 10px"
-        >
-            LinkedIn
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-            width="30px"
-            >
-        </div>
-    </a>
 </div>
