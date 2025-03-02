@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sim, sou Art✌️. Estou na procura de algum estágio de desenvolvedor para conseguir melhorar cada vez mais!
+Estou na procura de algum estágio de desenvolvedor para conseguir melhorar cada vez mais!
 Estudando atualmente na faculdade Uninove cursando Ánalise e Desenvolvimentos de Sistemas, atualmente com o foco de estudos apontados para o Front-End mas futuramente com o foco de ser um Full-Stack. 
 
 ---
@@ -56,6 +56,14 @@ Estudando atualmente na faculdade Uninove cursando Ánalise e Desenvolvimentos d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
     align="left" 
