@@ -6,7 +6,7 @@ Desenvolvedor focado na construção de aplicações web e produtos digitais, co
 
 Atualmente, trabalho principalmente com **TypeScript, React, Next.js, Node.js e PostgreSQL**, buscando desenvolver aplicações escaláveis, organizadas e fáceis de manter.
 
-🚀 **Founder & Developer do Kynos**, uma plataforma que conecta tutores de pets a profissionais de serviços pet. Atuo no desenvolvimento do produto, arquitetura, backend, frontend, integrações e preparação para produção.
+🚀 **Founder & Developer do KynosConnect**, uma plataforma que conecta tutores de pets a profissionais de serviços pet. Atuo no desenvolvimento do produto, arquitetura, backend, frontend, integrações e preparação para produção.
 
 Gosto de transformar ideias em produtos reais, explorar boas práticas de engenharia de software e encontrar soluções simples para problemas complexos.
 
@@ -48,7 +48,7 @@ Gosto de transformar ideias em produtos reais, explorar boas práticas de engenh
 
 ### 🚀 Projetos
 
-#### 🐾 Kynos
+#### 🐾 KynosConnect
 Plataforma de marketplace de serviços pet, conectando tutores a profissionais.
 
 - Desenvolvimento Full-Stack
