@@ -1,125 +1,75 @@
-# 🤚 Arthur Marques
+# 👋 Olá, eu sou o Arthur!
 
-**`Desenvolvedor Front-End`**
+### 💻 Full-Stack Developer | Software Engineer in Progress
 
-Estou na procura de algum estágio de desenvolvedor para conseguir melhorar cada vez mais!
-Estudando atualmente na faculdade Uninove cursando Ánalise e Desenvolvimentos de Sistemas, atualmente com o foco de estudos apontados para o Front-End mas futuramente com o foco de ser um Full-Stack. 
+Desenvolvedor focado na construção de aplicações web e produtos digitais, com experiência prática no desenvolvimento **Full-Stack**, desde a arquitetura e implementação de APIs até a construção de interfaces modernas.
+
+Atualmente, trabalho principalmente com **TypeScript, React, Next.js, Node.js e PostgreSQL**, buscando desenvolver aplicações escaláveis, organizadas e fáceis de manter.
+
+🚀 **Founder & Developer do Kynos**, uma plataforma que conecta tutores de pets a profissionais de serviços pet. Atuo no desenvolvimento do produto, arquitetura, backend, frontend, integrações e preparação para produção.
+
+Gosto de transformar ideias em produtos reais, explorar boas práticas de engenharia de software e encontrar soluções simples para problemas complexos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJs"
-    title="NodeJs" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
 
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- Prisma ORM
+- Zod
 
-<br/>
-<br/>
+**Banco de Dados**
+- PostgreSQL
+- MySQL
+- MongoDB
 
-### 📊 Estatísticas
+**Ferramentas & Infraestrutura**
+- Git & GitHub
+- pnpm
+- Turborepo
+- Swagger / OpenAPI
+- Stripe
+- Clerk
+- Resend
 
-<div
-    style="display:flex; flex-direction:column; align-items:left; justify-content:left; gap:20px"
->
-    <p>
-      <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=ArTezra1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      />
-    <img
-          align="left"
-          alt="GitHub Stats"
-          height="200"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArTezra1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </p>
+---
+
+### 🚀 Projetos
+
+#### 🐾 Kynos
+Plataforma de marketplace de serviços pet, conectando tutores a profissionais.
+
+- Desenvolvimento Full-Stack
+- API REST com TypeScript, Express e Prisma
+- PostgreSQL
+- Frontend com Next.js e React
+- Autenticação com Clerk
+- Integração de pagamentos com Stripe
+- Arquitetura organizada por domínios e fluxos de negócio
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArTezra1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArTezra1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Principais linguagens" />
 </div>
+
+---
+
+### 📫 Vamos nos conectar?
+
+- GitHub: [@ArTezra1](https://github.com/ArTezra1)
